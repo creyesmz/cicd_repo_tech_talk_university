@@ -8,7 +8,7 @@ The following are the requirements you need to proceed with this demo, point 1 t
 2. [Github account](#Github-account)
 3. [Heroku account](#Heroku-account)
 4. [Git installed](#Git-installation)
-5. [Docker installed](Docker-installation)
+5. [Docker installed](#Docker-installation)
 6. Javascript IDE installed ([Visual Studio Code Editor](https://code.visualstudio.com/download), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/3))
 
 ### DockerHub account
