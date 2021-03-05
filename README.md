@@ -32,4 +32,21 @@ And that's it, now you have your DockerHub account :D
 
 ### Github Account
 
-1.
+1. Go to [oficial page](https://github.com/)
+2. Click on **Sign Up**
+
+![](./images/gh_001.png)
+
+3. Fill the form
+
+![](./images/gh_002.png)
+
+4. Customize your profile (below is just an example)
+
+![](./images/gh_003.png)
+
+5. You'll receive an email, please click on **verify email address**
+
+![](./images/gh_004.png)
+
+And that's it, now your Github account is ready to be used
