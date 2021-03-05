@@ -26,7 +26,7 @@ The following are the requirements you need to proceed with this demo, point 1 t
 
 ![](./images/dh_003.png)
 
-And that's it, now you have your DockerHub account :D
+And that's it, now you have your **DockerHub account** :D
 
 ![](./images/dh_004.png)
 
@@ -49,4 +49,21 @@ And that's it, now you have your DockerHub account :D
 
 ![](./images/gh_004.png)
 
-And that's it, now your Github account is ready to be used
+And that's it, now your **Github account** is ready to be used
+
+### Heroku account
+
+1. Go to [oficial page](https://id.heroku.com/login)
+2. Click on **Sign Up**
+
+![](./images/h_001.png)
+
+3. Fill the form
+
+![](./images/h_002.png)
+
+4. You'll receive an email, please click on **verify email address**
+
+![](./images/h_003.png)
+
+And that's it, now your **Heroku account** is ready
