@@ -67,3 +67,9 @@ And that's it, now your **Github account** is ready to be used
 ![](./images/h_003.png)
 
 And that's it, now your **Heroku account** is ready
+
+### Git installation
+
+For this you can go to the [official page](https://git-scm.com/downloads), select your os and install it :D
+
+if you're more a cli kind person, go to [this](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) page to install it ;)
