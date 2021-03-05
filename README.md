@@ -15,4 +15,5 @@ The following are the requirements you need to proceed with this demo, point 1 t
 
 1. Go to [oficial page](https://hub.docker.com/)
 2. Click on **Sign In**
-   ![](./images/001.png)
+
+![](./images/001.png)
