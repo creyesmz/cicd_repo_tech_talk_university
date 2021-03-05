@@ -4,7 +4,7 @@
 
 The following are the requirements you need to proceed with this demo, point 1 to 5 is explained below. For point 6, please go to official documentation if you have not already an IDE. Enjoy :)
 
-1. DockerHub account
+1. [DockerHub account](#DockerHub-account)
 2. Github account
 3. Heroku account
 4. Git installed
