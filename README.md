@@ -16,14 +16,16 @@ The following are the requirements you need to proceed with this demo, point 1 t
 1. Go to [oficial page](https://hub.docker.com/)
 2. Fill the form, for example:
 
-![](./images/001.png)
+![](./images/dh_001.png)
 
 3. Select free plan
 
-![](./images/002.png)
+![](./images/dh_002.png)
 
 4. You'll receive a confirmation message to your mail. Please verify your email
 
-![](./images/003.png)
+![](./images/dh_003.png)
 
 And that's it, now you have your DockerHub account
+
+![](./images/dh_004.png)
