@@ -9,9 +9,9 @@ The following are the requirements you need to proceed with this demo, point 1 t
 3. Heroku account
 4. Git installed
 5. Docker installed
-6. Javascript IDE installed (Visual Studio Code Editor, Atom)
+6. Javascript IDE installed ([Visual Studio Code Editor](https://code.visualstudio.com/download), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/3))
 
-### DockerHub Account
+### DockerHub account
 
 1. Go to [oficial page](https://hub.docker.com/)
 2. Fill the form, for example:
@@ -30,7 +30,7 @@ And that's it, now you have your **DockerHub account** :D
 
 ![](./images/dh_004.png)
 
-### Github Account
+### Github account
 
 1. Go to [oficial page](https://github.com/)
 2. Click on **Sign Up**
