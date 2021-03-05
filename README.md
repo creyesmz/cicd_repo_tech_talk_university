@@ -73,3 +73,11 @@ And that's it, now your **Heroku account** is ready
 For this you can go to the [official page](https://git-scm.com/downloads), select your os and install it :D
 
 if you're more a cli kind person, go to [this](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) page to install it ;)
+
+### Docker installation
+
+According with your os, please go to the oficial pages to install Docker on your pc
+
+- [Mac](https://docs.docker.com/docker-for-mac/install/)
+- [Windows](https://docs.docker.com/docker-for-windows/install/)
+- [Linux](https://docs.docker.com/engine/install/)
