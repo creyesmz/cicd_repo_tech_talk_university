@@ -5,10 +5,10 @@
 The following are the requirements you need to proceed with this demo, point 1 to 5 is explained below. For point 6, please go to official documentation if you have not already an IDE. Enjoy :)
 
 1. [DockerHub account](#DockerHub-account)
-2. Github account
-3. Heroku account
-4. Git installed
-5. Docker installed
+2. [Github account](#Github-account)
+3. [Heroku account](#Heroku-account)
+4. [Git installed](#Git-installation)
+5. [Docker installed](Docker-installation)
 6. Javascript IDE installed ([Visual Studio Code Editor](https://code.visualstudio.com/download), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/3))
 
 ### DockerHub account
