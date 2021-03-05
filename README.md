@@ -26,6 +26,10 @@ The following are the requirements you need to proceed with this demo, point 1 t
 
 ![](./images/dh_003.png)
 
-And that's it, now you have your DockerHub account
+And that's it, now you have your DockerHub account :D
 
 ![](./images/dh_004.png)
+
+### Github Account
+
+1.
